@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page_name_main">Home</string>
+    <string name="page_name_finance">Finance</string>
+    <string name="page_name_search">Search</string>
+    <string name="no_news">No news</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="unable_to_connect">Unable to connect</string>
+    <string name="no_signal">No signal</string>
+    <string name="so_many_requests">Too many requests</string>
+    <string name="try_again_after">Please try again in</string>
+    <string name="error_has_occurred">An error occurred</string>
+    <string name="search_dot">Search...</string>
+    <string name="page_web_news">Web news page</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="page_name_main">Главная</string>
+    <string name="page_name_finance">Финансы</string>
+    <string name="page_name_search">Поиск</string>
+    <string name="no_news">Нет новостей</string>
+    <string name="no_internet_connection">Нет интернет соединения</string>
+    <string name="unable_to_connect">Не удается подключиться</string>
+    <string name="no_signal">Нет сигнала</string>
+    <string name="so_many_requests">Слишком много запросов</string>
+    <string name="try_again_after">"Повторите попытку через "</string>
+    <string name="error_has_occurred">Произошла ошибка</string>
+    <string name="search_dot">Поиск...</string>
+    <string name="page_web_news">Страница новости в интернете</string>
+</resources>
